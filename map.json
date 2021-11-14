@@ -130,7 +130,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"src\/assets\/bg_music\/purrple-cat-happy-trails.mp3"
+                 "value":"src\/assets\/bg_music\/inside.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -158,7 +158,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"src\/assets\/bg_music\/keys-of-moon-after-the-rain.mp3"
+                 "value":"src\/assets\/bg_music\/outside.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
